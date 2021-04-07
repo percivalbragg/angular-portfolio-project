@@ -3,6 +3,12 @@
 .container {
   opacity: 0.8;
 }
+
+.footer {
+  height: 20rem;
+  max-height: 20rem;
+}
+
 ::placeholder {
   font-style: italic;
   font-size: 70%;
